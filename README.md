@@ -1,4 +1,4 @@
-# Data Cleaning and Transformation Project - MySQL
+# Compmay Layoffs Database: Data Cleaning and Transformation Project - MySQL
 
 This document outlines the process of data cleaning and transformation using MySQL for a dataset related to company layoffs. The aim of this project is to prepare the data for analysis by removing duplicates, standardizing values, and ensuring data consistency.
 
